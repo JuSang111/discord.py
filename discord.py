@@ -2,7 +2,7 @@ import discord
 import asyncio
 
 # Discord 봇 토큰
-DISCORD_TOKEN = '1207260988852932608'
+DISCORD_TOKEN = 'MTIwNzI2MDk4ODg1MjkzMjYwOA.GARaRS.tohzo7U1oJvR4SPIX7DuGF8HXTldnifFfzsg88'
 
 # 디스코드 봇 클라이언트 생성
 client = discord.Client()
